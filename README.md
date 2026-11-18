@@ -45,5 +45,5 @@ Wybieram system **WordPress**, ponieważ według danych W3Techs (październik 20
 
 ## 5. Użycie AI
 * **Narzędzie:** Model językowy AI (asystent tekstowy).
-* **Cel użycia:** Wygenerowanie wstępnej propozycji opisu fikcyjnej firmy, dopasowanie person do wymagań zadania, sformatowanie pliku `README.md` w składni Markdown oraz weryfikacja poprawności składniowej plików JSON i YAML.
-* **Wkład własny i poprawki:** Weryfikacja zgodności wszystkich elementów z kartą zadań L1 i danymi z wykładu WL01 (W3Techs), ręczne uruchomienie oraz przetestowanie środowisk w WordPress Playground i GitHub Codespaces.
+* **Cel użycia:** Wygenerowanie wstępnej propozycji opisu fikcyjnej firmy oraz weryfikacja poprawności składniowej plików.
+* **Wkład własny i poprawki:** Weryfikacja zgodności wszystkich elementów z kartą zadań L1 i danymi z wykładu WL01.
